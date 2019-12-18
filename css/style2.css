@@ -1,0 +1,313 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+    background: url(../img/svg/world.svg)!important;
+}
+
+.mdb-skin .navbar.double-nav a{
+    color: #fff !important;
+}
+.mdb-skin .navbar{
+    background-color: #212121 !important;
+}
+.border-li {
+    border: 1px solid #5c5c5c;
+    border-radius: 4px;
+}
+.navbar-nav{
+        text-transform: uppercase;
+}
+
+.mt-5{
+    margin-top: 5em;
+}
+.demand h4{
+        font-size: 48px !important;
+    font-weight: 900 !important;
+}
+.demand p{
+        font-weight: 700;
+        margin-top: 9px;
+}
+.bg-banner{
+    padding: 73px 0px;
+    color: #fff;
+    text-align: center;
+    margin-top: 5em;
+    background-attachment:fixed;
+    background-size:cover; 
+    background-repeat:no-repeat;  
+        padding-bottom: 124px;
+}
+.bg-banner h4{
+        margin-top: 12px;
+    font-weight: 900;
+    font-size: 16px;
+}
+.bg-banner p{
+    font-size: 14px;
+}
+.mt-44{
+        margin-bottom: 44px;
+}
+.vector-icon{
+    background: #ccc;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    width: fit-content;
+    border-radius: 50%;
+    padding-left: 22px;
+    padding-right: 22px;
+    margin: 0 auto;
+        margin-bottom: 11px;
+    margin-top: 11px;
+}
+p{
+    margin-bottom: 0px;
+}
+.card-kickoffone{
+        background: #000;
+        color: #fff;
+        padding: 42px 7px;
+}
+.card-kickoffone h4{
+    margin: 0;
+    font-size: 40px;
+    font-weight: 900;
+}
+.card-kickoffone span{
+    margin-left:25px;
+    font-size: 13px;
+    color: #ccc;
+}
+.card-kickoffone p{
+    margin-top:10px;
+}
+.border-bottom{
+    padding-bottom: 3em;
+    margin-bottom: 3em;
+    border-color: #fcfcfc;
+}
+.mt-4em{
+        margin-top: 4em;
+}
+.mt-2em{
+    margin-top: 2em
+}
+.mb-3em{
+    margin-bottom: 3em
+}
+.pricing-bg{
+    background:linear-gradient(#596371de, #596371de),url(../img/svg/pricing.svg);
+    background-repeat: no-repeat;
+    color: #fff;
+    padding-top: 2em;
+    padding-bottom: 4em;
+    background-position: bottom;
+    margin-top: 6em;
+}
+.pricing-bg h4{
+    font-weight: 700;
+    font-size: 21px;
+}
+.pricing-bg p{
+    color:#ccc;
+}
+.footer-sec{
+    background:linear-gradient(#201f1fe0, #0d0d0dd9),url(../img/svg/footerbg.svg);
+    color: #fff;
+    padding: 6em 0em;
+}
+.main-footer ul{
+    padding:0;
+    list-style-type: none;
+
+}
+.main-footer li{
+    padding-top: 8px
+}
+.main-footer a{
+    color: #ccc;
+}
+.mt-2em{
+    margin-top: 2em;
+}
+.main-footerp{
+    color: #ccc;
+}
+.main-footer h4{
+font-weight: 800;
+}
+
+.main-footer{
+    border-top:1px solid #fcfcfc; 
+    padding-top: 18px
+}
+.resume{
+        padding-top: 61px;
+         padding-bottom: 61px;
+}
+.resume h4{
+    font-weight: 800;
+}
+h4{
+        font-weight: 700 !important;
+    font-size: 21px !important;
+}
+.mb-1em{
+    margin-bottom: 1.5em
+}
+.case-view{
+    background: #000;
+    color: #fff;
+    padding: 13px;
+}
+@media(min-width: 789px){
+.case-view button{
+       font-size: 10px;
+    padding: 7px;
+    margin-left: 20em;
+}
+.mt-10{
+    margin-top: 10em;
+}
+.pdr-0{
+    padding-right: 0px;
+}
+.pd-0{
+    padding: 0;
+}
+}
+@media(max-width: 789px){
+.case-view button{
+       font-size: 10px;
+    padding: 7px;
+}
+.resume{
+    padding-bottom: 0px;
+}
+.mt-31{
+        margin-top: 31px;
+}
+}
+#myDIV  img{
+    width: 100%;
+    }
+@media(min-width: 789px){
+#myDIV  img{
+    width: 100%;
+     opacity: 0.5;
+}
+/*.slick-slider-div:hover img{
+        width: 380px;
+    transition: width 1s;
+    z-index: 80000000000000000000000000000000000000000000000000000000000000000000000 !important;
+     opacity: 1;
+}*/
+/* Style the active class, and buttons on mouse-over */
+.maindiv, .maindiv2{
+      width: 100% !important;
+    transition: all 1s;
+     opacity: 1 !important;
+     transform: scale(1.1);
+     z-index: 5;
+}
+.maindiv img, .maindiv2 img{
+      width: 100% !important;
+    transition: width 1s;
+    
+     opacity: 1 !important;
+}
+.slick-track{
+    margin: 0px !important;
+    margin-top: 9px;
+}
+.slick-slider-div{
+    transition: all 0.5s ease-in;
+}
+.divone{
+    opacity: 0.5;
+}
+}
+.m-0{
+    margin: 0;
+}
+
+.mt8{
+        margin-top: 84px;
+}
+
+
+
+/* Style the tab */
+.tab {
+   /* overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;*/
+}
+
+/* Style the buttons inside the tab */
+.tab img {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+    opacity: 0.5;
+    margin-bottom: 40px;
+
+}
+
+/* Change background color of buttons on hover */
+.tab img:hover {
+    opacity: 1;
+}
+
+/* Create an active/current tablink class */
+.tab img.active {
+    opacity: 1
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    -webkit-animation: fadeEffect 1s;
+    animation: fadeEffect 1s;
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+.content-tab-testimonila q{
+    font-size: 30px;
+    font-weight: 900;
+}
+.content-tab-testimonila p{
+    font-size: 16px;
+    font-weight: normal;
+}
+.testimonial-title{
+    margin-top: 12px;
+    margin-bottom: 32px;
+}
+.mdb-skin .navbar{
+
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.navbar.navbar-dark .breadcrumb .nav-item .nav-link, .navbar.navbar-dark .navbar-nav .nav-item .nav-link{
+    font-weight: 700 !important;
+}
+.leftButton, .rightButton{
+        width: fit-content !important;
+}
